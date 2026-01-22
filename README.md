@@ -20,3 +20,13 @@ The Future of Philippine Growth: A 2026 Forecast & Regional GDP Analysis 📈
 💡 Recommendation:
 
 Based on the historical and forecasted GDP data, it is recommended that policymakers and investors focus on strengthening infrastructure, attracting high-value industries, and supporting high-income employment sectors, particularly in regions with strong growth potential such as NCR, CALABARZON, and Central Luzon. For NCR, continuing to enhance business-friendly policies and maintaining high-quality urban infrastructure will sustain its position as the country’s economic leader. Meanwhile, regions with lower GDP and per capita figures, such as MIMAROPA and Bicol, should prioritize strategic investments in industrial development, tourism, and human capital, to improve productivity and reduce regional economic disparities.
+
+CLICK THESE SNAPSHOTS OF MY DASHBOARDS
+
+<img width="1280" height="694" alt="GDP in Current Price" src="https://github.com/user-attachments/assets/2c5c0e01-3455-4835-b3d0-46d3616ea2d2" />
+
+<img width="1280" height="694" alt="GDP in Current Price Per Capita" src="https://github.com/user-attachments/assets/d0d829f0-ef92-41c6-ac9d-7797b12c4005" />
+
+<img width="1280" height="694" alt="GDP in Constant Price" src="https://github.com/user-attachments/assets/387d2f6f-a4dc-46c6-ba20-1510d6faf459" />
+
+<img width="1280" height="694" alt="GDP in Constant Price Per Capita" src="https://github.com/user-attachments/assets/ce3981f2-21a6-4b80-a3a8-1857cfc8cd97" />
